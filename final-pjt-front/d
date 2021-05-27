@@ -1,0 +1,233 @@
+[33mcommit d209862b521ec4df4c72286496fe450ef37b8e9d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Thu Nov 26 00:41:12 2020 +0900
+
+    1126
+
+[33mcommit 01f61c041a5a67ba477378308f7268f164ec2554[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Wed Nov 25 22:08:49 2020 +0900
+
+    1125
+
+[33mcommit a4d308ab6c2f92c7f5dbfdbfe019c7de0c4a53b0[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Wed Nov 25 17:25:00 2020 +0900
+
+    1125
+
+[33mcommit aafc3c841942b5dca074e9b47b003f0e9ca98a3b[m
+Merge: 22d12c3 9b679eb
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Wed Nov 25 16:52:02 2020 +0900
+
+    Merge branch 'master' of https://lab.ssafy.com/jes5918/final-pjt-front into master
+
+[33mcommit 22d12c37d480b5d20b473011c1947825d8b56cd3[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Wed Nov 25 16:51:57 2020 +0900
+
+    1125
+
+[33mcommit 9b679eb73a824f7f0fe0777b3453530be44e8db1[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Wed Nov 25 16:32:12 2020 +0900
+
+    one more
+
+[33mcommit 6ea485b793f14a7e3e2876f89ebe033838460a38[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Wed Nov 25 16:27:00 2020 +0900
+
+    not yet
+
+[33mcommit 19e694c477eb500072d2ce218b2f39e51b61162f[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Wed Nov 25 11:02:01 2020 +0900
+
+    1125
+
+[33mcommit 2c1478a6c04d74e8377c3fc3a08951f67686fda6[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Tue Nov 24 19:50:18 2020 +0900
+
+    1124
+
+[33mcommit 10b1ad68f896d314248ecc056c58dce8065819b5[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Tue Nov 24 19:44:44 2020 +0900
+
+    1124
+
+[33mcommit 34417a61ba9dd221d6234c51f41093e030bf4dd0[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Tue Nov 24 18:30:14 2020 +0900
+
+    search 1124
+
+[33mcommit 38ef691f1cbfd3c7e4879936ca63845405525a88[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Tue Nov 24 17:30:43 2020 +0900
+
+    1124
+
+[33mcommit 4d894c14403ca206da0d968883e76cd0381cb425[m
+Merge: 8429457 5e8aae6
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Tue Nov 24 11:30:51 2020 +0900
+
+    Merge branch 'master' of https://lab.ssafy.com/jes5918/final-pjt-front into master
+
+[33mcommit 8429457d6943bedc303cbd4ed7f8bac171b5f06b[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Tue Nov 24 11:30:45 2020 +0900
+
+    1124
+
+[33mcommit 5e8aae658af9d45cf5800a4ad6502bdfb121ff6c[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Tue Nov 24 11:28:52 2020 +0900
+
+    one more
+
+[33mcommit 2f1a0d6c2757122df5dc7b3de837a2e768e051ee[m
+Merge: 17cfdc1 958a15c
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Mon Nov 23 17:05:27 2020 +0900
+
+    Merge branch 'master' of https://lab.ssafy.com/jes5918/final-pjt-front into master
+
+[33mcommit 958a15c94419793e95b736803332057756ee97bd[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Mon Nov 23 17:05:13 2020 +0900
+
+    top
+
+[33mcommit 17cfdc1808880c92129ec953a7fe7153d3250489[m
+Merge: 13b0a2f d044b62
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Mon Nov 23 16:49:37 2020 +0900
+
+    Merge branch 'master' of https://lab.ssafy.com/jes5918/final-pjt-front into master
+
+[33mcommit 13b0a2f0c83e74ac5744701775543814ad4d8e4f[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Mon Nov 23 16:49:31 2020 +0900
+
+    profile
+
+[33mcommit d044b62e26628cce1c1f105edc1bdb721c44138e[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Mon Nov 23 16:49:18 2020 +0900
+
+    signup designed
+
+[33mcommit f459e4558fb5052d48c0076b44dac61f24fb4a9a[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Mon Nov 23 16:12:07 2020 +0900
+
+    community
+
+[33mcommit 786aef9410b755c333c6b2d2badcc80f7d31a9e0[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Mon Nov 23 15:48:55 2020 +0900
+
+    1123
+
+[33mcommit 6e809bca744500189c822b84b2f203b615ff93f6[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Mon Nov 23 13:57:11 2020 +0900
+
+    1123
+
+[33mcommit e6b2b10558978493c46ab7e571877e96ff47cc7f[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Mon Nov 23 13:56:51 2020 +0900
+
+    1123
+
+[33mcommit 4279a6c2647abdc6f1370eda5126425e72fc67ab[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Mon Nov 23 13:17:02 2020 +0900
+
+    1123
+
+[33mcommit d167efc138c15002e7f87fef159445f410779a5d[m
+Merge: 7ec171d a146900
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Sun Nov 22 17:41:05 2020 +0900
+
+    Merge branch 'master' of https://lab.ssafy.com/jes5918/final-pjt-front into master
+
+[33mcommit 7ec171d1db70edff1ecc40ad9e4613a74a364328[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Sun Nov 22 17:41:00 2020 +0900
+
+    1122
+
+[33mcommit a146900212c15e7e1273173233986d5d2d458fcf[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Sun Nov 22 17:40:00 2020 +0900
+
+    header
+
+[33mcommit d8252870da15532e5d058545ae03fbff7695f16c[m
+Merge: 1998860 475571b
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Sun Nov 22 17:23:51 2020 +0900
+
+    1122
+
+[33mcommit 19988607fd404b4a47b84d75477df0b5ea2521fa[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Sun Nov 22 17:23:11 2020 +0900
+
+    1122
+
+[33mcommit 475571bb4fbeadcf21221ab78024a3f134866b8d[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Sun Nov 22 17:22:49 2020 +0900
+
+    no style
+
+[33mcommit 2586c1adfdff505bfd2f7ccaca75c0ff91dd6e06[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Sun Nov 22 17:10:19 2020 +0900
+
+    no style
+
+[33mcommit 38eebb6270f2f0f05571f9d310d404f994774fef[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Sun Nov 22 17:07:07 2020 +0900
+
+    ssafsaf
+
+[33mcommit 70781659f1679d95772511caeb2913c532fc40e8[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Sun Nov 22 17:05:42 2020 +0900
+
+    1222
+
+[33mcommit fc10030850e134fd23dfe19de0348825bac372a9[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Sun Nov 22 16:49:53 2020 +0900
+
+    dsad
+
+[33mcommit 50bd5887dec12caabe0bdfdd5f2f7cd3f74f0c1c[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Sun Nov 22 16:41:38 2020 +0900
+
+    login
+
+[33mcommit db8eca56988fb6f2986df42e2028c393e1080174[m
+Author: ThinkPad of GeneYoung <tbs01215@gmail.com>
+Date:   Sun Nov 22 16:26:34 2020 +0900
+
+    html head
+
+[33mcommit fd6e64c1680fe1c81cec068353a999bc6ec66d5f[m
+Author: Euisunotebook <wjsdmltntn@gmail.com>
+Date:   Sun Nov 22 16:12:03 2020 +0900
+
+    init
