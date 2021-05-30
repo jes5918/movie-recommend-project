@@ -120,21 +120,7 @@
 
      
 
----
-
-## 3. 데이터베이스 모델링(ERD)
-
-
-
-![image-20201126222127953](C:\Users\John YG\Desktop\final-pjt-front\README.assets\image-20201126222127953.png)
-
-
-
-
-
----
-
-## 4. 필수 기능
+## 3. 필수 기능
 
 1. 관리자 뷰
 
